@@ -9,3 +9,7 @@ function setName(par){
 function helpFunction(help){
   return help;
 }
+
+function another (help){
+  return help;
+}
