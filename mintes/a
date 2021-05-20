@@ -5,3 +5,7 @@ function a(){
 function setName(par){
   return par;
 }
+
+function helpFunction(help){
+  return help;
+}
