@@ -2,6 +2,6 @@ function a(){
   return 1;
 }
 
-function setName(arg){
-  return ar
+function setName(par){
+  return par;
 }
