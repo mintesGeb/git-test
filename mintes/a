@@ -17,3 +17,5 @@ function another (help){
 function afterGithub(){
  return mintes;
 }
+
+function fromGithub(){}
