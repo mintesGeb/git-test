@@ -2,5 +2,5 @@ function mine(){
 return "minte"; //my name
 }
 function multiply(){
-return a*b;
+return a/b;
 }
