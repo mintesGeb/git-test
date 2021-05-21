@@ -13,3 +13,7 @@ function helpFunction(help){
 function another (help){
   return help;
 }
+
+function afterGithub(){
+ return mintes;
+}
